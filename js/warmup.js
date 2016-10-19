@@ -1,5 +1,8 @@
 'use strict';
 
+console.log("hello world!");
+
+
 /* 
 this is an Array of Objects representing games the Seahawks have played
 objects include the opponent name, Seattle's final score, and the opponents 
